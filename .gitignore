@@ -1,0 +1,14 @@
+.DS_Store
+.vscode
+.idea
+.claude
+dist
+build
+coverage
+node_modules
+.nuxt
+.output
+*.tsbuildinfo
+playwright-report
+test-results
+CLAUDE.md
